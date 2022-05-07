@@ -1,7 +1,7 @@
 <h1>Raspberry Pi Home NAS Lab</h1>
 
 <h2>Description</h2>
-This lab details the setup process for my home NAS running on a Raspberry Pi 4 with Raspberry Pi OS Lite and OpenMediaVault.
+This lab details the setup process for a home NAS running on a Raspberry Pi 4 with Raspberry Pi OS Lite and OpenMediaVault.
 <br />
 
 
