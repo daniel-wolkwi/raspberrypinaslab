@@ -15,7 +15,7 @@ This lab details the setup process for my home NAS running on a Raspberry Pi 4 w
 - <b>Windows 10</b>
 - <b>Linux CLI</b>
 
-<h2>Program walk-through:</h2>
+<h2>Program Walk-Through:</h2>
 
 <p align = "center">
 Identify the Raspberry Pi's ip address and connect to it via SSH: <br/>
