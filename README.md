@@ -13,7 +13,7 @@ This lab details the setup process for my home NAS running on a Raspberry Pi 4 w
 <h2>Environments</h2>
 
 - <b>Windows 10</b>
-- <b>Linux CLI</b>
+- <b>Debian Linux CLI</b>
 
 <h2>Program Walk-Through:</h2>
 
