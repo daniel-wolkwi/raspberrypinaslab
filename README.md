@@ -42,7 +42,7 @@ Establish the File System:  <br/>
 <br />
 <br />
 Establish the Shared Folder:  <br/>
-Must enablle SMB/CIFS <br/>
+(SMB/CIFS services must be enabled as well) <br/>
   <br/>
 <img src="https://i.imgur.com/Ia4H0iu.png" height="80%" width="80%" alt="NAS setup"/>
 <br />
